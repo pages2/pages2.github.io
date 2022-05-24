@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: *404*
+
+Sitemap: https://pages2.github.io/pagesmap.xml
+Sitemap: https://pages2.github.io/s/pagesmap.xml
+
+Host: https://pomodoro2.gitlab.io

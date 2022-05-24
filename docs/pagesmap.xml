@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+  <loc>https://pages2.github.io/</loc>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/ru/</loc>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/en/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/"/>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/ru/2021/09/06/cartesian-product-of-sets.html</loc>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/2021/09/06/cartesian-product-of-sets.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/2021/09/07/cartesian-product-of-sets.html"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/en/2021/09/07/cartesian-product-of-sets.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/2021/09/07/cartesian-product-of-sets.html"/>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/2021/09/06/cartesian-product-of-sets.html"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/ru/2021/09/06/combinations-of-n-sets.html</loc>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/2021/09/06/combinations-of-n-sets.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/2021/09/07/combinations-of-n-sets.html"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/en/2021/09/07/combinations-of-n-sets.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/2021/09/07/combinations-of-n-sets.html"/>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/2021/09/06/combinations-of-n-sets.html"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/ru/2021/09/09/pascals-triangle-in-java.html</loc>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/2021/09/09/pascals-triangle-in-java.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/2021/09/10/pascals-triangle-in-java.html"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/en/2021/09/10/pascals-triangle-in-java.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/2021/09/10/pascals-triangle-in-java.html"/>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/2021/09/09/pascals-triangle-in-java.html"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/ru/2021/09/13/combinations-by-columns.html</loc>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/2021/09/13/combinations-by-columns.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/2021/09/14/combinations-by-columns.html"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/en/2021/09/14/combinations-by-columns.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/2021/09/14/combinations-by-columns.html"/>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/2021/09/13/combinations-by-columns.html"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/ru/2021/09/20/combinations-of-sequence-elements.html</loc>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/2021/09/20/combinations-of-sequence-elements.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/2021/09/22/combinations-of-sequence-elements.html"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/en/2021/09/22/combinations-of-sequence-elements.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/2021/09/22/combinations-of-sequence-elements.html"/>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/2021/09/20/combinations-of-sequence-elements.html"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/ru/2021/10/04/cartesian-product-parallel-streams.html</loc>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/2021/10/04/cartesian-product-parallel-streams.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/2021/10/05/cartesian-product-parallel-streams.html"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pages2.github.io/en/2021/10/05/cartesian-product-parallel-streams.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://pages2.github.io/en/2021/10/05/cartesian-product-parallel-streams.html"/>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://pages2.github.io/ru/2021/10/04/cartesian-product-parallel-streams.html"/>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+</url>
+</urlset>
